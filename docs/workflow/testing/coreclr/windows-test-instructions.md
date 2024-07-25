@@ -157,7 +157,7 @@ After [building an individual test](#building-individual-tests), to run the test
 
 2) Run the test using the `.cmd` generated for the test.
 
-If you wish to run the test under a debugger (e.g. [WinDbg](http://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx)), append `-debug <debuggerFullPath>` to the test command.
+If you wish to run the test under a debugger (e.g. [WinDbg](https://msdn.microsoft.com/library/windows/hardware/ff551063(v=vs.85).aspx)), append `-debug <debuggerFullPath>` to the test command.
 
 ## Modifying a test
 
